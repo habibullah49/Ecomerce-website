@@ -1,0 +1,25 @@
+.panda-card{
+  border:0;
+}
+.panda-card-footer{
+  border: 0;
+  background-color: white;
+}
+.categories img{
+  width: 100px;  
+}
+.panda-slide .carousel-item{
+  background-color: #fceae8;
+  border-radius: 1em;
+}
+
+.input{
+  margin-top: 5px;
+  margin-left: 90px;
+  
+}
+.contact-btn{
+  margin-top: 15px;
+  margin-left: 130px;
+  border-radius: 7px;
+}
